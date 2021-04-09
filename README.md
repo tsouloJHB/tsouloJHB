@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Thabang soulo
+- 👋 Hi, I’m 
+- <h3>Thabang soulo</h3>
 - 👀 I’m interested in ...
   <h1>AI,Robotics,DevOps,Backend Programming</h1>
 - 🌱 I’m currently learning ...
